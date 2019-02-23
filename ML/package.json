@@ -1,0 +1,22 @@
+{
+  "name": "medtrix-masters",
+  "version": "1.0.0",
+  "description": "code generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pankhilprajapati"
+  },
+  "keywords": [
+    "pankhil"
+  ],
+  "author": "pankhil",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.8",
+    "ml-regression": "^4.4.2"
+  }
+}
